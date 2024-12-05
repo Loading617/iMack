@@ -1,2 +1,2 @@
 # iMack
-Audiomack Tweaked for iOS
+A iOS Audiomack Tweaked App
